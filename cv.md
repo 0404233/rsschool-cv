@@ -29,11 +29,11 @@
 
 ## **4. Sample code**
 
-     ```javascript
-       function multiply(a, b) {
-       return a * b
-     }
-     ```
+```javascript
+unction multiply(a, b) {
+   return a * b
+}
+```
 
 ## **5. Projects**
 
