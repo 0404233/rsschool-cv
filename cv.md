@@ -9,11 +9,11 @@
 
 ## **2. About me**
 
-   ### *My aims*
+   ### My aims
    * Will master front-end development perfectly
    * Get a job front-end development
 
-   ### *Personal / Business qualities*
+   ### Personal / Business qualities
    * I like to study and learn something new
    * Sociability / Benevolence / Stress tolerance
    * Punctuality / Diligence
@@ -29,9 +29,11 @@
 
 ## **4. Sample code**
 
-   * function multiply(a, b) {
+   * ```javascript
+       function multiply(a, b) {
        return a * b
      }
+     ```
 
 ## **5. Projects**
 
@@ -39,15 +41,15 @@
 
 ## **6. Education**
 
-   ### *2017 - 2021	EI «Republican Institute of Vocational Education»*
+   ### 2017 - 2021	EI «Republican Institute of Vocational Education»
    * specialization: Vehicle maintenance
    * qualification: Mechanical Technician/Driver Category BC
 
-   ### *2022 Training center "Fitness education"
+   ### 2022 Training center "Fitness education"
    * specialization: Fitness
    * qualification: Gym Instructor/Personal Trainer
 
-   ### *2022 Educational Center for Programming and High Tech*
+   ### 2022 Educational Center for Programming and High Tech
    * website development with HTML, CSS & JAVASCRIPT
 
 ## **English language**
