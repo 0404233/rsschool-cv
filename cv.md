@@ -29,7 +29,7 @@
 
 ## **4. Sample code**
 
-   * ```javascript
+     ```javascript
        function multiply(a, b) {
        return a * b
      }
