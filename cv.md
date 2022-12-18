@@ -1,5 +1,7 @@
 # **MAKAREVICH  ANDREI**
 
+![](/img/myphoto.jpg)
+
 ## **1.  Contacts for communication**
 
    * E-mail: andrey0404233@gmail.com
