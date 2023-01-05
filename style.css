@@ -47,10 +47,11 @@ body a:hover {
     position: sticky;
     top: 0;
     background-color: rgb(158, 101, 172);
+    z-index: 2;
 }
 
 .footer {
-    background-color: rgb(158, 101, 172);
+    background-color: rgba(158, 101, 172, 0.5);
 }
 
 .container {
@@ -189,10 +190,16 @@ h3 {
     }
 
     .profile-section {
-        padding: 0;
+        padding: 10px 0 0 0;
     }
 
     .section-title::after {
         width: 90vw;
+    }
+}
+
+@media (max-width: 744px) {
+    .header {
+        display: none;
     }
 }
