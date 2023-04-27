@@ -19,6 +19,7 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
     font-family: 'Roboto Mono', monospace;
     font-size: 18px;
     background-image: url(./assets/img/de3d050d0ecb214778ff2516c4caa490.jpg);
